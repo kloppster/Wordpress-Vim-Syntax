@@ -1,0 +1,11 @@
+Wordpress VIM Syntax Highlighting
+
+For more information checkout my blog post here: http://www.kloppmagic.ca/blog/2011/05/wordpress-vim-syntax-highlighting/
+
+Basically what you need to do is place the wordpress.vim in your .vim/syntax folder then when editing a wordpress php file run in your editor:
+
+    :set syn=wordpress
+
+Or simply setup in your vimrc file:
+
+    autocmd BufEnter *.php :set syn=wordpress
