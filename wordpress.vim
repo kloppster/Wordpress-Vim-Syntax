@@ -83,7 +83,7 @@ syn keyword wpFunction add_role author_can current_user_can current_user_can_for
 
 " Users and Authors
 
-syn keyword wpFunction auth_redirect  count_users count_user_posts count_many_users_posts email_exists get_currentuserinfo get_profile  get_userdata get_userdatabylogin get_usernumposts get_users get_users_of_blog set_current_user  user_pass_ok username_exists validate_username wp_get_current_user wp_set_current_user  get_author_posts_url get_current_user_id contained
+syn keyword wpFunction auth_redirect  count_users count_user_posts count_many_users_posts email_exists get_currentuserinfo get_profile  get_userdata get_userdatabylogin get_usernumposts get_users get_users_of_blog set_current_user  user_pass_ok username_exists validate_username wp_get_current_user wp_set_current_user  get_author_posts_url get_current_user_id get_user_by contained
 
 " User meta
 
