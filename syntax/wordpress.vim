@@ -114,7 +114,7 @@ syn keyword wpFunction has_action add_action do_action do_action_ref_array  did_
 
 " Plugins
 
-syn keyword wpFunction plugin_basename plugins_url  register_activation_hook register_deactivation_hook register_setting settings_fields unregister_setting contained
+syn keyword wpFunction plugin_basename plugins_url  register_activation_hook register_deactivation_hook register_uninstall_hook register_setting settings_fields unregister_setting contained
 
 " Shortcodes
 
