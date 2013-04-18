@@ -173,7 +173,7 @@ syn keyword wpFunction comments_open has_nav_menu has_tag in_category  is_404 is
 
 " Miscellaneous
 
-syn keyword wpFunction add_query_arg bool_from_yn  cache_javascript_headers do_robots get_bloginfo get_num_queries is_blog_installed is_main_site  is_ssl make_url_footnote nocache_headers remove_query_arg status_header wp  wp_check_filetype wp_clearcookie wp_die wp_footer wp_get_cookie_login wp_get_http_headers  wp_hash wp_head wp_mail wp_mkdir_p wp_new_user_notification wp_notify_moderator  wp_notify_postauthor wp_parse_args wp_redirect wp_remote_fopen wp_salt wp_set_auth_cookie  wp_upload_bits wp_upload_dir contained
+syn keyword wpFunction add_query_arg bool_from_yn  cache_javascript_headers do_robots get_bloginfo bloginfo get_num_queries is_blog_installed is_main_site  is_ssl make_url_footnote nocache_headers remove_query_arg status_header wp  wp_check_filetype wp_clearcookie wp_die wp_footer wp_get_cookie_login wp_get_http_headers  wp_hash wp_head wp_mail wp_mkdir_p wp_new_user_notification wp_notify_moderator  wp_notify_postauthor wp_parse_args wp_redirect wp_remote_fopen wp_salt wp_set_auth_cookie  wp_upload_bits wp_upload_dir contained
 
 " Classes
 " WP - general request handling
